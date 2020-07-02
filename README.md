@@ -1,2 +1,10 @@
 # thelounge-theme-srcf
-Theme for our public and private The Lounge instance
+Theme for the SRCF's public and private The Lounge instance.
+
+## Installation
+
+Install using
+
+```
+thelounge install thelounge-theme-solarized
+```
